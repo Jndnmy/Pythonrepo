@@ -1,0 +1,13 @@
+.ropeproject/
+config/
+db/
+defaults/
+langconfig
+not_active_path
+onlinehelp
+path
+pdb_history.sqlite
+spyder.ini
+spyder.ini.bak
+spyder.lock/
+workingdir
